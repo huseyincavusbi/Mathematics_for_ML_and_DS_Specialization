@@ -11,15 +11,15 @@ The specialization covers essential mathematical concepts and techniques used in
 3.  **Probability & Statistics for Machine Learning & Data Science**
 
 ## Certifications
-*   **[Specialization Certificate Name]**: [[Link to Specialization Certificate](https://coursera.org/share/e52ef7980278fa8f833950b1d3c31938)]
+*   **Specialization Certificate**: [[Link to Specialization Certificate](https://coursera.org/share/e52ef7980278fa8f833950b1d3c31938)]
     *   **Specialization:** Mathematics for Machine Learning and Data Science
     *   **Key Topics:** Linear algebra, calculus, probability, statistics, and their applications in machine learning.
     *   
-*   **[Linear Algebra]**: [[Link to Certificate](https://coursera.org/share/c1eadf5e5bdd34e5afe26b57eb49a22e)]
+*   **Linear Algebra**: [[Link to Certificate](https://coursera.org/share/c1eadf5e5bdd34e5afe26b57eb49a22e)]
     *   **Course:** Linear Algebra for Machine Learning and Data Science
     *   **Key Topics:** Vectors, matrices, matrix operations, linear transformations, eigenvalues, eigenvectors.
 
-*   **[Calculus]**: [[Link to Certificate](https://coursera.org/share/50f6c8bcf1a6de3feeb2c99f095e3abe)]
+*   **Calculus**: [[Link to Certificate](https://coursera.org/share/50f6c8bcf1a6de3feeb2c99f095e3abe)]
     *   **Course:** Calculus for Machine Learning and Data Science
     *   **Key Topics:** Derivatives, gradients, partial derivatives, optimization, the chain rule.
 
@@ -33,9 +33,9 @@ A future researcher passionate about applying AI to revolutionize medicine. I'm 
 ## Connect with me
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 20px;">
-        <a href="[[LinkedIn](https://www.linkedin.com/in/huseyincavus/)]" target="_blank">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/huseyincavus/" target="_blank">LinkedIn</a>
     </div>
     <div>
-        <a href="mailto:[huseyincavus@proton.me]">Email</a>
+        <a href="mailto:huseyincavus@proton.me">Email</a>
     </div>
 </div>

@@ -23,7 +23,7 @@ The specialization covers essential mathematical concepts and techniques used in
     *   **Course:** Calculus for Machine Learning and Data Science
     *   **Key Topics:** Derivatives, gradients, partial derivatives, optimization, the chain rule.
 
-*   **[Probability and Statistics]**: [[Link to Certificate](https://coursera.org/share/44431570d1af3661a3ffd7dda0f5b6d1)]
+*   **Probability and Statistics**: [[Link to Certificate](https://coursera.org/share/44431570d1af3661a3ffd7dda0f5b6d1)]
     *   **Course:** Probability & Statistics for Machine Learning & Data Science
     *   **Key Topics:** Probability distributions, random variables, expected values, variance, covariance, Bayesian statistics.
 
